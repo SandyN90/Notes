@@ -5,8 +5,8 @@ import VoiceRecognition from './VoiceRecognition';
 export default function MainContent() {
     return (
         <>
-        <Sidebar/>
-        <VoiceRecognition/>
+            <Sidebar />
+            <VoiceRecognition />
         </>
     )
 }
